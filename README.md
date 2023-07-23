@@ -1,4 +1,4 @@
-# Lab4-Classification Lab-</br>
+# Lab4-Classification lab</br>
 The goal here is to classify handwritten digits 3 and 8  </br>
 I compare to the clustering method:</br>
 1. Logistic regression with threshold p>=0.5</br>
